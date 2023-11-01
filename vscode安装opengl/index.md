@@ -30,7 +30,7 @@ vscode要装c++和cmake插件。
 ```
 git clone https://github.com/Microsoft/vcpkg.git
 ```
-Make sure you are in the directory you want the tool installed to before doing this.
+Make sure you are in the directory you want the tool to be installed before doing this.
 
 ### Step 2: Run the bootstrap script to build vcpkg
 ```
