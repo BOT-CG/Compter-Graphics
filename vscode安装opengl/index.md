@@ -24,8 +24,6 @@ tags: [  "opengl"  ,"vscode"]
 vscode要装c++和cmake插件。  
 ![Alt text](images/image-5.png)
 
-{{< figure src="images/image-5.png" title="Illustration from Victor Hugo et son temps (1881)" >}}
-
 ## 安装vcpkg
 
 ### Step 1: Clone the vcpkg repo
