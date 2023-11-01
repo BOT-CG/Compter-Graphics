@@ -8,7 +8,7 @@ tags: [  "opengl"  ,"vscode"]
 
 # 使用vscode安装glfw和glad
 
-visual studio 太臃肿了，教各位使用vscode的cmake插件编写代码，需要同学自己写cmakelist编译cpp文件，免去visual studio链接库的烦恼。
+本教程使用vscode的cmake插件编写代码，需要同学自己写cmakelist编译cpp文件，免去visual studio链接库的烦恼。
 主要流程如下:
 
 1. 安装vscode，cmake
@@ -164,5 +164,3 @@ int main()
 ![Alt text](images/image-4.png)
 
 我们缺少glfw3.dll文件，需要将vcpkg目录下的installed目录下的x64-windows的bin目录下的glfw3.dll文件复制到exe文件所在的目录下，然后再次双击运行，就可以看到一个窗口了。
-
-# test 
